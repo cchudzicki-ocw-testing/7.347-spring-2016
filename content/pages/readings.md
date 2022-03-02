@@ -33,7 +33,7 @@ READINGS
 
 Introduction of Instructor and Students and Course Overview
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_1" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_1" %}}
 
 
 {{< tdclose >}}
@@ -51,7 +51,7 @@ Introduction of Instructor and Students and Course Overview
 
 Antimicrobial Peptides in Innate Immune Defense and Their Production
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_2" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_2" %}}
 
 
 {{< tdclose >}}
@@ -75,7 +75,7 @@ D., Ghosh, E. Porter, et al. "[Paneth Cell Trypsin is the Processing Enzyme for 
 
 Antimicrobial Peptides as Double Agents
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_3" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_3" %}}
 
 
 {{< tdclose >}}
@@ -99,7 +99,7 @@ F., Navid, M. Boniotto, et al. "[Induction of Regulatory T Cells by a Murine β-
 
 Folding Matters for Antimicrobial Peptides
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_4" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_4" %}}
 
 
 {{< tdclose >}}
@@ -123,7 +123,7 @@ Z., Wu, D. Hoover, et al. "[Engineering Disulfide Bridges to Dissect Antimicrobi
 
 Techniques to Study Antimicrobial Peptides
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_5" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_5" %}}
 
 
 {{< tdclose >}}
@@ -147,7 +147,7 @@ Ueberheide, M., A. Fenyö, et al. "[Rapid Sensitive Analysis of Cysteine Rich Pe
 
 Peptides in Biotic Interactions
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_6" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_6" %}}
 
 
 {{< tdclose >}}
@@ -171,7 +171,7 @@ Cullen T. W., W. B. Schofield, et al. "[Antimicrobial Peptide Resistance Mediate
 
 Peptide Transporters in Various Organisms
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_7" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_7" %}}
 
 
 {{< tdclose >}}
@@ -195,7 +195,7 @@ G., L. R. Runti, C. S. Maria, et al. "[Functional Characterization of SbmA, a Ba
 
 Peptide Signals in the Brain
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_8" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_8" %}}
 
 
 {{< tdclose >}}
@@ -219,7 +219,7 @@ S. A., Mousa, M. Shakibaei, et al. "[Subcellular Pathways of β-Endorphin Synthe
 
 Molecules of Hunger and Love
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_9" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_9" %}}
 
 
 {{< tdclose >}}
@@ -243,7 +243,7 @@ Z., Wang, L. J. Young, et al. "[Species Differences in Vasopressin Receptor Bind
 
 Epidermal Growth Factors (EGFs) as Signaling Peptides
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_10" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_10" %}}
 
 
 {{< tdclose >}}
@@ -267,7 +267,7 @@ B., Dawson, B. L. Mitchell, et al. "[Epidermal Growth Factor Receptor Dimerizati
 
 Molecules in Action: Antimicrobial Peptides as Drugs
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_11" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_11" %}}
 
 
 {{< tdclose >}}
@@ -291,7 +291,7 @@ J. N., Steenbergen, J. T. Alder, et al. "[Daptomycin: A Lipopeptide Antibiotic f
 
 Field Trip to Merck Pharmaceuticals
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_12" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_12" %}}
 
 
 {{< tdclose >}}
@@ -309,7 +309,7 @@ No Readings
 
 Signaling Peptides as Potential Drugs for Treating Cancers
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_13" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_13" %}}
 
 
 {{< tdclose >}}
@@ -333,7 +333,7 @@ T., Kawamoto, J. L. Mendelsohn, et al. "[Relation of Epidermal Growth Factor Rec
 
 Signaling Peptides in Signal Transduction
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_14" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_14" %}}
 
 
 {{< tdclose >}}
@@ -357,7 +357,7 @@ K., Matuoka, M. Shibata, et al. "[Cloning of ASH, a Ubiquitous Protein Composed 
 
 Last Day of the Class: Oral Presentations, General Discussion of the Course, and Course Evaluations
 
-{{< resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_15" >}}
+{{% resource_link 91418319-24cb-da91-56cf-eb5bcb5ed273 "See the Lecture Summary" "#Week_15" %}}
 
 
 {{< tdclose >}}
